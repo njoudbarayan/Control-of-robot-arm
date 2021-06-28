@@ -1,0 +1,12 @@
+ body{
+ 
+   background-image: url('robot.jpg');
+   background-size: cover;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+   color: white;
+    text-align: justify;
+  direction: rtl;
+ }
+
+  
